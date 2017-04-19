@@ -1,0 +1,46 @@
+#principal{
+  margin:5% auto;
+  font-family: monospace;
+  width: 680px;
+}
+
+h3{
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+#negro{
+  width: 20%;
+  line-height: 6px;
+  background-color: black;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+
+.coder{
+  display:inline-block;
+  width: 200px;
+  height: 200px;
+  margin:10px;
+  position: relative;
+  background-color: rgba(0,0,0,0.5);
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  top:0;
+  left:0;
+  opacity:0.8;
+}
+
+
+span{
+  position:absolute;
+  bottom:0;
+  right: 0;
+  color:white;
+  margin:4%;
+}
